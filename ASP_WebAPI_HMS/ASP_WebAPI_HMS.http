@@ -1,0 +1,6 @@
+@ASP_WebAPI_HMS_HostAddress = http://localhost:5217
+
+GET {{ASP_WebAPI_HMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
